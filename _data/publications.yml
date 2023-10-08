@@ -1,6 +1,6 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  - title: Visualizing DNA Rection Trajectories with Deep Graph Embedding Approaches
     authors: <strong>Chenwei Zhang*</strong>, Khanh Dao Duc, Anne Condon (*First author)
     conference_short: NeurIPS
     conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2022.
@@ -9,6 +9,7 @@ main:
     bibtex: ./assets/bib/vida_mlsb2022.txt
     image: ./assets/img/vida_mlsb.png
     notes: Poster Presentation
+    abs: Synthetic biologists and molecular programmers design novel nucleic acid reactions, with many potential applications. Good visualization tools are needed to help domain experts make sense of the complex outputs of folding pathway simulations of such reactions. Here we present ViDa, a new approach for visualizing DNA reaction folding trajectories over the energy landscape of secondary structures. We integrate a deep graph embedding model with common dimensionality reduction approaches, to map high-dimensional data onto 2D Euclidean space. We assess ViDa on two well-studied and contrasting DNA hybridization reactions. Our preliminary results suggest that ViDa's visualization successfully separates trajectories with different folding mechanisms, thereby providing useful insight to users, and is a big improvement over the current state-of-the-art in DNA kinetics visualization.
 
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
@@ -20,7 +21,7 @@ main:
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
-    others: International Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image Computing
+    # others: International Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image Computing
 
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
