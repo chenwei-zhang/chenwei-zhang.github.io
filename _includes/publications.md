@@ -41,7 +41,7 @@
       {% endif %}
       {% if link.abs %}
         <textarea readonly rows="5" cols="30" style="font-size: 12px; padding: 6px; border: 1px solid #ccc; border-radius: 4px; background-color: inherit; color: #555555;">
-          {{ link.abs }}
+          {{ link.abs | trim }}
         </textarea>
       {% endif %}
     </div>
