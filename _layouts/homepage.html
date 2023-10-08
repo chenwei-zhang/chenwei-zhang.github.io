@@ -34,6 +34,17 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const lastUpdatedElement = document.getElementById('last-updated');
+        const lastUpdated = document.lastModified;
+        const formattedDate = new Date(lastUpdated);
+        const year = formattedDate.getFullYear();
+        const month = String(formattedDate.getMonth() + 1).padStart(2, '0');
+        const day = String(formattedDate.getDate()).padStart(2, '0');
+        lastUpdatedElement.textContent = `${year}-${month}-${day}`;
+      });
+    </script>
   </head>
   <body>
     <div class="wrapper">
@@ -99,9 +110,9 @@
 
       <br>
 
-<!--       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %} -->
+      {% if site.enable_footnote %}
+      <p><small>Last updated: <span id="last-updated"></span></small></p>
+      {% endif %}
 
       </section>
       <footer>
