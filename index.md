@@ -16,30 +16,14 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.
 
 ## News
 
-<style>
-.scrollable {
-  height: 200px;
-  overflow-y: auto;
-  border: 1px solid #ccc;
-  padding: 10px;
-}
-</style>
-
-<div class="scrollable">
-  
-[Feb. 2020] Our paper about incremental learning is accepted to CVPR 2020.
-[Feb. 2020] We will host the ACM Multimedia Asia 2020 conference in Singapore!
-[Sept. 2019] Our paper about few-shot learning is accepted to NeurIPS 2019.
-[Mar. 2019] Our paper about few-shot learning is accepted to CVPR 2019.
-
-</div>
-
-<!--- 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
----> 
+- **[Sept. 2023]** 🗣️ I present a [poster](https://drive.google.com/file/d/1nIy9tc8CTVFkb3_ZQhSA7WVrlp3H-rQx/view?usp=sharing) at [DNA29](https://dna29.org/index.html) conference in Sendai, Japan.
+- **[Sept. 2023]** 🗣️ I give a [talk](https://www.birs.ca/events/2023/5-day-workshops/23w5142/videos/watch/202309071601-Zhang.html) at [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5142) workshop in Banff, Canada.
+- **[Jul. 2023]** 🎉 Our abstract poster on visualization for DNA reaction trajectories is accepted to DNA29.
+- **[Jun. 2023]** 🎉 Our [paper](https://drops.dagstuhl.de/opus/volltexte/2023/18788/) on revisiting hybridization kinetics with Bayesian inference is accepted to DNA29.
+- **[Jun. 2023]** 👨‍💻 I am starting my intership at [Amgen](https://www.amgen.ca/) focused on employing deep learning in drug discovery.
+- **[Dec. 2023]** 🗣️ I present a [poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/59044.png?t=1669169245.3355224) at NeurIPS2022 conference in New Orleans, US.
+- **[Oct. 2023]** 🎉 Our [workshop paper](https://www.mlsb.io/papers_2022/Visualizing_DNA_reaction_trajectories_with_deep_graph_embedding_approaches.pdf
+) on visualizing DNA kinetics using deep graph embeddings is accepted to MLSB, NeurIPS2022.
 
 {% include_relative _includes/publications.md %}
 
