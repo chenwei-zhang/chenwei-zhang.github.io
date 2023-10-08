@@ -40,7 +40,7 @@
       {{ link.others }}
       {% endif %}
       {% if link.abs %}
-        <textarea readonly rows="5" cols="30" style="font-size: 12px; padding: 6px; border: 1px solid #ccc; border-radius: 4px; background-color: inherit; color: #555555; white-space: pre-line;">
+        <textarea readonly rows="5" cols="35" style="font-size: 10px; padding: 6px; border: 1px solid #ccc; border-radius: 4px; background-color: inherit; color: #555555; white-space: pre-line; text-align: justify;">
           {{ link.abs }}
         </textarea>
       {% endif %}
