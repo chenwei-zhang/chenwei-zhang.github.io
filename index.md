@@ -17,16 +17,15 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.
 ## News
 
 <style>
-.scroll-box {
-  width: 100%;
-  height: 200px; /* Adjust the height as needed */
+.scrollable {
+  height: 200px;
   overflow-y: auto;
   border: 1px solid #ccc;
   padding: 10px;
 }
 </style>
 
-<div class="scroll-box">
+<div class="scrollable">
   
 [Feb. 2020] Our paper about incremental learning is accepted to CVPR 2020.
 [Feb. 2020] We will host the ACM Multimedia Asia 2020 conference in Singapore!
