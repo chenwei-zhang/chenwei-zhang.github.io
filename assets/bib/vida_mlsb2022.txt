@@ -1,0 +1,6 @@
+@inproceedings{Zhang-etal-2022,
+  title={Visualizing {DNA} reaction trajectories with deep graph embedding approaches},
+  author={Zhang, Chenwei and Dao Duc, Khanh and Condon, Anne},
+  booktitle={Machine Learning for Structural Biology Workshop, NeurIPS},
+  year={2022}
+}
