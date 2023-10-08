@@ -36,12 +36,12 @@
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
-<!--       {% if link.others %} 
+      {% if link.others %} 
       {{ link.others }}
-      {% endif %} -->
-      {% if link.others %}
+      {% endif %}
+      {% if link.abs %}
         <textarea readonly rows="5" cols="30" style="font-size: 12px; padding: 6px; border: 1px solid #ccc; border-radius: 4px; background-color: inherit; color: #555555;">
-          {{ link.others }}
+          {{ link.abs }}
         </textarea>
       {% endif %}
     </div>
