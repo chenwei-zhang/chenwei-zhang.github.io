@@ -7,7 +7,7 @@ main:
     pdf: https://www.mlsb.io/papers_2022/Visualizing_DNA_reaction_trajectories_with_deep_graph_embedding_approaches.pdf
     code: https://github.com/chenwei-zhang/ViDa
     bibtex: ./assets/bib/vida_mlsb2022.txt
-    image: ./assets/img/vida_mlsb.png
+    image: ./assets/img/vida_mlsb.pdf
     notes: Poster Presentation
 
 
@@ -16,6 +16,7 @@ main:
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
+    abs: International Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image Computing
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
