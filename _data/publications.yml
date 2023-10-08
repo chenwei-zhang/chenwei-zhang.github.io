@@ -1,6 +1,17 @@
 main:
 
   - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: <strong>Chenwei Zhang*</strong>, Khanh Dao Duc, Anne Condon (*First author)
+    conference_short: NeurIPS
+    conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2022.
+    pdf: https://www.mlsb.io/papers_2022/Visualizing_DNA_reaction_trajectories_with_deep_graph_embedding_approaches.pdf
+    code: https://github.com/chenwei-zhang/ViDa
+    bibtex: ./assets/bib/vida_mlsb2022.txt
+    image: ./assets/img/vida_mlsb.png
+    notes: Poster Presentation
+
+
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
     authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
