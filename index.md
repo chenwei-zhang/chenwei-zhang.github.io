@@ -10,16 +10,37 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.
 
 ## Research Interests
 
-- **Machine Learning:** deep learning, graph embedding, multimodal learning, visualization of high-dimensional data
+- **Machine Learning:** deep learning, graph embedding, multimodal learning, visualization
 - **AI4Science:** protein atomic model reconstruction, Cryo-EM density map analysis, DNA kinetics
 
 
 ## News
 
+<style>
+.scroll-box {
+  width: 100%;
+  height: 200px; /* Adjust the height as needed */
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+</style>
+
+<div class="scroll-box">
+  
+[Feb. 2020] Our paper about incremental learning is accepted to CVPR 2020.
+[Feb. 2020] We will host the ACM Multimedia Asia 2020 conference in Singapore!
+[Sept. 2019] Our paper about few-shot learning is accepted to NeurIPS 2019.
+[Mar. 2019] Our paper about few-shot learning is accepted to CVPR 2019.
+
+</div>
+
+<!--- 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+---> 
 
 {% include_relative _includes/publications.md %}
 
