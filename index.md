@@ -19,7 +19,8 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.
 - **[Sept. 2023]** 🗣️ I presented a [poster](./assets/files/vida_DNA29_poster.pdf) at [DNA29](https://dna29.org/index.html) conference in Sendai, Japan.
 - **[Sept. 2023]** 🗣️ I gave a [talk](https://www.birs.ca/events/2023/5-day-workshops/23w5142/videos/watch/202309071601-Zhang.html) at [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5142) workshop in Banff, Canada.
 - **[Jul. 2023]** 🎉 Our [paper](https://drops.dagstuhl.de/opus/volltexte/2023/18788/) on revisiting hybridization kinetics with Bayesian inference is accepted to DNA29.
-<details>
+<div style="margin-top: -10px;">
+details>
   <summary>Previous news</summary>
   <ul>
     <li><strong>[Jul. 2023]</strong> 🎉 Our abstract poster on visualizing DNA kinetics using deep graph embeddings is accepted to DNA29.</li>
