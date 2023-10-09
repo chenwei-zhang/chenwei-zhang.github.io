@@ -22,3 +22,15 @@ main:
     bibtex: ./assets/bib/d0magnetism.txt
     image: ./assets/img/d0magnetism.png
     abs: "Controlling magnetic and magneto-optical properties of transparent metal oxide semiconductors has a significant potential for spintronics and photonics. Although ferromagnetism has been reported for several nanostructured transparent metal oxides in the absence of magnetic dopants, its origin and the nature of the exchange interactions remain controversial. Here, we report a variable-temperature–variable-field magnetic circular dichroism study of ZnO and SnO<sub>2</sub> nanocrystals prepared under oxidizing and reducing conditions. We observe the band splitting in ZnO and SnO<sub>2</sub> nanocrystals induced by localized doublet (S = 1/2) and triplet (S = 1) ground states, respectively. Photoluminescence measurements suggest that these states are associated with oxygen vacancies, either as isolated paramagnetic sites in ZnO or as local vacancy-based complexes in SnO<sub>2</sub> nanocrystals. The results of this work demonstrate the ability to tune carrier polarization in metal oxide nanocrystals by in situ control of the native defect formation and attest to the anomalous Zeeman splitting of the band states, which may play an important role in generating ferromagnetism in this class of materials."
+
+
+  - title: Manipulating Carrier Polarization in Pure and Doped Metal Oxide Semiconductor Nanocrystals
+    authors: <strong>Chenwei Zhang</strong>
+    conference_short: THESIS
+    conference: MSc Thesis at the University of Waterloo <strong>(MSc Thesis)</strong>, 2021.
+    pdf: https://uwspace.uwaterloo.ca/bitstream/handle/10012/16816/Zhang_Chenwei.pdf?sequence=3&isAllowed=y
+    bibtex: ./assets/bib/mscthesis.txt
+    image: ./assets/img/mscthesis.png
+    abs: "Moore's Law will soon be inadequate to keep up with the needs of technological developments as the currently used materials have reached their natural performance limits. Hence, the development of a new technology to replace traditional semiconductor electronics is imminent. Spintronics has been emerged as a promising alternative to control charge properties as well as electron spin to improve the device performance. Metal oxide and chalcogenide semiconductor nanocrystals (NCs) have generated much research due to their unique properties and relatively low cost. In contrast to noble metal nanoparticles (NPs), the semiconductor NCs with tunable free charge carrier concentration are regarded as promising materials in technological applications including multifunctional quantum devices and next-generation electronic devices."
+
+
