@@ -13,23 +13,12 @@ main:
     abs: "Synthetic biologists and molecular programmers design novel nucleic acid reactions, with many potential applications. Good visualization tools are needed to help domain experts make sense of the complex outputs of folding pathway simulations of such reactions. Here we present ViDa, a new approach for visualizing DNA reaction folding trajectories over the energy landscape of secondary structures. We integrate a deep graph embedding model with common dimensionality reduction approaches, to map high-dimensional data onto 2D Euclidean space. We assess ViDa on two well-studied and contrasting DNA hybridization reactions. Our preliminary results suggest that ViDa's visualization successfully separates trajectories with different folding mechanisms, thereby providing useful insight to users, and is a big improvement over the current state-of-the-art in DNA kinetics visualization."
 
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: On the Origin of d<sup>0</sup> Magnetism in Transparent Metal Oxide Nanocrystals
+    authors: <strong>Chenwei Zhang</strong>, Penghui Yin, Whenhuan Lu, Victor Galievsky, Pavle V. Radovanovic
+    conference_short: JPCC
+    conference: The Journal of Physical Chemistry C <strong>(J. Phys. Chem. C)</strong>, 2021.
+    pdf: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.1c06959
+    bibtex: ./assets/bib/d0magnetism.txt
+    image: ./assets/img/d0magnetism.png
+    abs: "Controlling magnetic and magneto-optical properties of transparent metal oxide semiconductors has a significant potential for spintronics and photonics. Although ferromagnetism has been reported for several nanostructured transparent metal oxides in the absence of magnetic dopants, its origin and the nature of the exchange interactions remain controversial. Here, we report a variable-temperature–variable-field magnetic circular dichroism study of ZnO and SnO<sub>2</sub> nanocrystals prepared under oxidizing and reducing conditions. We observe the band splitting in ZnO and SnO<sub>2</sub> nanocrystals induced by localized doublet (S = 1/2) and triplet (S = 1) ground states, respectively. Photoluminescence measurements suggest that these states are associated with oxygen vacancies, either as isolated paramagnetic sites in ZnO or as local vacancy-based complexes in SnO<sub>2</sub> nanocrystals. The results of this work demonstrate the ability to tune carrier polarization in metal oxide nanocrystals by in situ control of the native defect formation and attest to the anomalous Zeeman splitting of the band states, which may play an important role in generating ferromagnetism in this class of materials."
