@@ -1,4 +1,5 @@
-## Activity
+<h2 id="activities" style="margin: 2px 0px -15px;">Activities</h2>
+
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
