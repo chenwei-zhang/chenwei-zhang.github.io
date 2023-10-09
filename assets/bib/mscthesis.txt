@@ -1,0 +1,6 @@
+@mastersthesis{zhang2021manipulating,
+  title={Manipulating Carrier Polarization in Pure and Doped Metal Oxide Semiconductor Nanocrystals},
+  author={Zhang, Chenwei},
+  year={2021},
+  school={University of Waterloo}
+}
