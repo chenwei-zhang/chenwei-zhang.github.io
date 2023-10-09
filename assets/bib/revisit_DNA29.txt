@@ -1,0 +1,18 @@
+@InProceedings{lovrod_et_al:LIPIcs.DNA.29.5,
+  author =	{Lovrod, Jordan and Beronov, Boyan and Zhang, Chenwei and Winfree, Erik and Condon, Anne},
+  title =	{{Revisiting Hybridization Kinetics with Improved Elementary Step Simulation}},
+  booktitle =	{29th International Conference on DNA Computing and Molecular Programming (DNA 29)},
+  pages =	{5:1--5:24},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-95977-297-6},
+  ISSN =	{1868-8969},
+  year =	{2023},
+  volume =	{276},
+  editor =	{Chen, Ho-Lin and Evans, Constantine G.},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/opus/volltexte/2023/18788},
+  URN =		{urn:nbn:de:0030-drops-187889},
+  doi =		{10.4230/LIPIcs.DNA.29.5},
+  annote =	{Keywords: DNA reaction kinetics, kinetic model calibration, simulation-based Bayesian inference, continuous-time Markov chains}
+}

@@ -1,0 +1,10 @@
+@article{kenny2023revisiting,
+  title={Revisiting Plasmonic Properties of Complex Semiconductor Nanocrystals Using Magnetic Circular Dichroism Spectroscopy: A Cautionary Tale},
+  author={Kenny-Wilby, Aaron and Jaics, Gyorgy and Zhang, Chenwei and Yin, Penghui and Radovanovic, Pavle V},
+  journal={The Journal of Physical Chemistry C},
+  volume={127},
+  number={2},
+  pages={1087--1096},
+  year={2023},
+  publisher={ACS Publications}
+}

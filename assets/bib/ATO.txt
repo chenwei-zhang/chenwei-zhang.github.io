@@ -1,0 +1,10 @@
+@article{zhang2020manipulating,
+  title={Manipulating Carrier Polarization in Semiconductor Nanocrystals},
+  author={Zhang, Chenwei and Yin, Penghui and Radovanovic, Pavle V},
+  journal={ECS Transactions},
+  volume={98},
+  number={3},
+  pages={77},
+  year={2020},
+  publisher={IOP Publishing}
+}

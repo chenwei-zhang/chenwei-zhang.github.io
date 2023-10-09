@@ -1,0 +1,10 @@
+@article{zhang2021origin,
+  title={On the origin of d0 magnetism in transparent metal oxide nanocrystals},
+  author={Zhang, Chenwei and Yin, Penghui and Lu, Wenhuan and Galievsky, Victor and Radovanovic, Pavle V},
+  journal={The Journal of Physical Chemistry C},
+  volume={125},
+  number={50},
+  pages={27714--27722},
+  year={2021},
+  publisher={ACS Publications}
+}
