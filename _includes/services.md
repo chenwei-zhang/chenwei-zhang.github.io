@@ -1,7 +1,7 @@
-<h2 id="activities" style="margin: 10px 0px -15px;">Activities</h2>
+<h2 id="activities" style="margin: 2px 0px 0;">Activities</h2>
 
 
-<h4 style="margin:0 10px 10px;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
