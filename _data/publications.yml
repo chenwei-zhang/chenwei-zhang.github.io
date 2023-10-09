@@ -1,6 +1,18 @@
 main:
 
 
+  - title: Visualizing DNA Rection Trajectories with Deep Graph Embedding Approaches
+    authors: <strong>Chenwei Zhang</strong>, Khanh Dao Duc, Anne Condon
+    conference_short: NeurIPS
+    conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2022.
+    pdf: https://www.mlsb.io/papers_2022/Visualizing_DNA_reaction_trajectories_with_deep_graph_embedding_approaches.pdf
+    code: https://github.com/chenwei-zhang/ViDa
+    bibtex: ./assets/bib/vida_mlsb2022.txt
+    image: ./assets/img/vida_mlsb2022.png
+    notes: Poster Presentation
+    abs: "Synthetic biologists and molecular programmers design novel nucleic acid reactions, with many potential applications. Good visualization tools are needed to help domain experts make sense of the complex outputs of folding pathway simulations of such reactions. Here we present ViDa, a new approach for visualizing DNA reaction folding trajectories over the energy landscape of secondary structures. We integrate a deep graph embedding model with common dimensionality reduction approaches, to map high-dimensional data onto 2D Euclidean space. We assess ViDa on two well-studied and contrasting DNA hybridization reactions. Our preliminary results suggest that ViDa's visualization successfully separates trajectories with different folding mechanisms, thereby providing useful insight to users, and is a big improvement over the current state-of-the-art in DNA kinetics visualization."
+
+
   - title: Revisiting Hybridization Kinetics with Improved Elementary Step Simulation
     authors: Jordan Lovrod, Boyan Beronov, <strong>Chenwei Zhang</strong>, Erik Winfree, Anne Condon
     conference_short: DNA29
@@ -10,8 +22,6 @@ main:
     bibtex: ./assets/bib/revisit_DNA29.txt
     image: ./assets/img/revisit_DNA29.png
     notes: Best Oral Presentation
-    abs: "Synthetic biologists and molecular programmers design novel nucleic acid reactions, with many potential applications. Good visualization tools are needed to help domain experts make sense of the complex outputs of folding pathway simulations of such reactions. Here we present ViDa, a new approach for visualizing DNA reaction folding trajectories over the energy landscape of secondary structures. We integrate a deep graph embedding model with common dimensionality reduction approaches, to map high-dimensional data onto 2D Euclidean space. We assess ViDa on two well-studied and contrasting DNA hybridization reactions. Our preliminary results suggest that ViDa's visualization successfully separates trajectories with different folding mechanisms, thereby providing useful insight to users, and is a big improvement over the current state-of-the-art in DNA kinetics visualization."
-
 
 
   - title: Revisiting Plasmonic Properties of Complex Semiconductor Nanocrystals Using Magnetic Circular Dichroism Spectroscopy: A Cautionary Tale
