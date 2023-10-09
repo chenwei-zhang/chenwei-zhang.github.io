@@ -13,26 +13,6 @@ main:
     abs: "Synthetic biologists and molecular programmers design novel nucleic acid reactions, with many potential applications. Good visualization tools are needed to help domain experts make sense of the complex outputs of folding pathway simulations of such reactions. Here we present ViDa, a new approach for visualizing DNA reaction folding trajectories over the energy landscape of secondary structures. We integrate a deep graph embedding model with common dimensionality reduction approaches, to map high-dimensional data onto 2D Euclidean space. We assess ViDa on two well-studied and contrasting DNA hybridization reactions. Our preliminary results suggest that ViDa's visualization successfully separates trajectories with different folding mechanisms, thereby providing useful insight to users, and is a big improvement over the current state-of-the-art in DNA kinetics visualization."
 
 
-  - title: Revisiting Hybridization Kinetics with Improved Elementary Step Simulation
-    authors: Jordan Lovrod, Boyan Beronov, <strong>Chenwei Zhang</strong>, Erik Winfree, Anne Condon
-    conference_short: DNA29
-    conference: 29th International Conference on DNA Computing and Molecular Programming <strong>(DNA29)</strong>, 2023.
-    pdf: https://drops.dagstuhl.de/opus/volltexte/2023/18788/pdf/LIPIcs-DNA-29-5.pdf
-    code: https://github.com/DNA-and-Natural-Algorithms-Group/multistrand
-    bibtex: ./assets/bib/revisit_DNA29.txt
-    image: ./assets/img/revisit_DNA29.png
-    notes: Best Oral Presentation
-
-
-  - title: Revisiting Plasmonic Properties of Complex Semiconductor Nanocrystals Using Magnetic Circular Dichroism Spectroscopy: A Cautionary Tale
-    authors: Aaron Kenny-Wilby, Gyorgy Jaics, <strong>Chenwei Zhang</strong>, Penghui Yin, Pavle V. Radovanovic
-    conference_short: JPCC
-    conference: The Journal of Physical Chemistry C <strong>(J. Phys. Chem. C)</strong>, 2023.
-    pdf: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.2c06569
-    bibtex: ./assets/bib/revisit_MCD.txt
-    image: ./assets/img/revisit_MCD.png
-
-
   - title: Visualizing DNA Rection Trajectories with Deep Graph Embedding Approaches
     authors: <strong>Chenwei Zhang</strong>, Khanh Dao Duc, Anne Condon
     conference_short: NeurIPS
