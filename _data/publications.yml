@@ -1,38 +1,66 @@
 main:
 
+  - title: Revisiting Hybridization Kinetics with Improved Elementary Step Simulation
+    authors: Jordan Lovrod, Boyan Beronov, <strong>Chenwei Zhang</strong>, Erik Winfree, Anne Condon
+    conference_short: DNA29
+    conference: 29th International Conference on DNA Computing and Molecular Programming <strong>(DNA29)</strong>, 2023.
+    pdf: https://drops.dagstuhl.de/opus/volltexte/2023/18788/pdf/LIPIcs-DNA-29-5.pdf
+    code: https://github.com/DNA-and-Natural-Algorithms-Group/multistrand
+    bibtex: ./assets/bib/revisit_DNA29.txt
+    image: ./assets/img/revisit_DNA29.png
+    notes: Best Oral Presentation
+    abs: "Nucleic acid strands, which react by forming and breaking Watson-Crick base pairs, can be designed to form complex nanoscale structures or devices. Controlling such systems requires accurate predictions of the reaction rate and of the folding pathways of interacting strands. Simulators such as Multistrand model these kinetic properties using continuous-time Markov chains (CTMCs), whose states and transitions correspond to secondary structures and elementary base pair changes, respectively. The transient dynamics of a CTMC are determined by a kinetic model, which assigns transition rates to pairs of states, and the rate of a reaction can be estimated using the mean first passage time (MFPT) of its CTMC. However, use of Multistrand is limited by its slow runtime, particularly on rare events, and the quality of its rate predictions is compromised by a poorly-calibrated and simplistic kinetic model. The former limitation can be addressed by constructing truncated CTMCs, which only include a small subset of states and transitions, selected either manually or through simulation. As a first step to address the latter limitation, Bayesian posterior inference in an Arrhenius-type kinetic model was performed in earlier work, using a small experimental dataset of DNA reaction rates and a fixed set of manually truncated CTMCs, which we refer to as Assumed Pathway (AP) state spaces. In this work we extend this approach, by introducing a new prior model that is directly motivated by the physical meaning of the parameters and that is compatible with experimental measurements of elementary rates, and by using a larger dataset of 1105 reactions as well as larger truncated state spaces obtained from the recently introduced stochastic Pathway Elaboration (PE) method. We assess the quality of the resulting posterior distribution over kinetic parameters, as well as the quality of the posterior reaction rates predicted using AP and PE state spaces. Finally, we use the newly parameterised PE state spaces and Multistrand simulations to investigate the strong variation of helix hybridization reaction rates in a dataset of Hata et al. While we find strong evidence for the nucleation-zippering model of hybridization, in the classical sense that the rate-limiting phase is composed of elementary steps reaching a small "nucleus" of critical stability, the strongly sequence-dependent structure of the trajectory ensemble up to nucleation appears to be much richer than assumed in the model by Hata et al. In particular, rather than being dominated by the collision probability of nucleation sites, the trajectory segment between first binding and nucleation tends to visit numerous secondary structures involving misnucleation and hairpins, and has a sizeable effect on the probability of overcoming the nucleation barrier."
+
+
+  - title: Revisiting Plasmonic Properties of Complex Semiconductor Nanocrystals Using Magnetic Circular Dichroism Spectroscopy: A Cautionary Tale
+    authors: Aaron Kenny-Wilby, Gyorgy Jaics, <strong>Chenwei Zhang</strong>, Penghui Yin, Pavle V. Radovanovic
+    conference_short: JPCC
+    conference: The Journal of Physical Chemistry C <strong>(J. Phys. Chem. C)</strong>, 2023.
+    pdf: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.2c06569
+    bibtex: ./assets/bib/revisit_MCD.txt
+    image: ./assets/img/revisit_MCD.png
+    abs: "Plasmonic semiconductor nanocrystals (NCs) have emerged as an attractive alternative to noble metal nanoparticles. They typically exhibit localized surface plasmon resonance (LSPR) in the infrared range, which can be tuned by controlling the type and concentration of charge carriers. Compositionally and electronically complex semiconductor NCs have attracted significant attention due to their reported plasmonic properties, such as bipolar behavior (off-stoichiometric spinel-type gallium iron oxide or GFO), wide tunability (copper iron chalcogenide or Cu<sub>x</sub>Fe<sub>y</sub>S<sub>2-z</sub>Se<sub>z</sub>), and extremely broad LSPR (oxygen-deficient WO<sub>3-x</sub>). However, the origin of these unusual properties remains unclear. Here, we comparatively investigate the plasmonic properties of these semiconductor NC materials using magnetic circular dichroism (MCD) spectroscopy, owing to the highly specific response of LSPR to the magnetic field and light polarization. In all systems, we find indisputable evidence that the LSPR absorption bands have been mischaracterized. MCD signals that coincide with the absorption bands previously assigned to LSPR of GFO and Cu<sub>x</sub>Fe<sub>y</sub>S<sub>2-z</sub>Se<sub>z</sub> NCs show rapid saturation with the magnetic field and independence on the sign of charge carriers, indicating that the corresponding absorption bands are not due to LSPR. This behavior is consistent with intra-ionic and inter-band transitions for GFO and Cu<sub>x</sub>Fe<sub>y</sub>S<sub>2-z</sub>Se<sub>z</sub> NCs, respectively. The MCD signal corresponding to the absorption spectrum of WO<sub>3-x</sub> NCs shows Brillouin function dependence on the magnetic field at high photon energies (attributed to d–d transitions of W5+) and linear dependence in the near-infrared range (attributed to LSPR), indicating that the broad absorption spectrum of WO<sub>3-x</sub> NCs is only partly associated with LSPR. The results of this work help resolve notable discrepancies in the literature, underline the challenges in assigning absorption bands of complex semiconductor NCs to LSPR, and demonstrate that MCD spectroscopy is an invaluable tool for characterization of these materials."
+
+
   - title: Visualizing DNA Rection Trajectories with Deep Graph Embedding Approaches
-    authors: <strong>Chenwei Zhang*</strong>, Khanh Dao Duc, Anne Condon (*First author)
+    authors: <strong>Chenwei Zhang</strong>, Khanh Dao Duc, Anne Condon
     conference_short: NeurIPS
     conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2022.
     pdf: https://www.mlsb.io/papers_2022/Visualizing_DNA_reaction_trajectories_with_deep_graph_embedding_approaches.pdf
     code: https://github.com/chenwei-zhang/ViDa
     bibtex: ./assets/bib/vida_mlsb2022.txt
-    image: ./assets/img/vida_mlsb.png
+    image: ./assets/img/vida_mlsb2022.png
     notes: Poster Presentation
-    abs: Synthetic biologists and molecular programmers design novel nucleic acid reactions, with many potential applications. Good visualization tools are needed to help domain experts make sense of the complex outputs of folding pathway simulations of such reactions. Here we present ViDa, a new approach for visualizing DNA reaction folding trajectories over the energy landscape of secondary structures. We integrate a deep graph embedding model with common dimensionality reduction approaches, to map high-dimensional data onto 2D Euclidean space. We assess ViDa on two well-studied and contrasting DNA hybridization reactions. Our preliminary results suggest that ViDa's visualization successfully separates trajectories with different folding mechanisms, thereby providing useful insight to users, and is a big improvement over the current state-of-the-art in DNA kinetics visualization.
-
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
     abs: "Synthetic biologists and molecular programmers design novel nucleic acid reactions, with many potential applications. Good visualization tools are needed to help domain experts make sense of the complex outputs of folding pathway simulations of such reactions. Here we present ViDa, a new approach for visualizing DNA reaction folding trajectories over the energy landscape of secondary structures. We integrate a deep graph embedding model with common dimensionality reduction approaches, to map high-dimensional data onto 2D Euclidean space. We assess ViDa on two well-studied and contrasting DNA hybridization reactions. Our preliminary results suggest that ViDa's visualization successfully separates trajectories with different folding mechanisms, thereby providing useful insight to users, and is a big improvement over the current state-of-the-art in DNA kinetics visualization."
-    
-    # others: International Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image ComputingInternational Conference on Medical Image Computing
 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: On the Origin of d<sup>0</sup> Magnetism in Transparent Metal Oxide Nanocrystals
+    authors: <strong>Chenwei Zhang</strong>, Penghui Yin, Whenhuan Lu, Victor Galievsky, Pavle V. Radovanovic
+    conference_short: JPCC
+    conference: The Journal of Physical Chemistry C <strong>(J. Phys. Chem. C)</strong>, 2021.
+    pdf: https://pubs.acs.org/doi/full/10.1021/acs.jpcc.1c06959
+    bibtex: ./assets/bib/d0magnetism.txt
+    image: ./assets/img/d0magnetism.png
+    abs: "Controlling magnetic and magneto-optical properties of transparent metal oxide semiconductors has a significant potential for spintronics and photonics. Although ferromagnetism has been reported for several nanostructured transparent metal oxides in the absence of magnetic dopants, its origin and the nature of the exchange interactions remain controversial. Here, we report a variable-temperature–variable-field magnetic circular dichroism study of ZnO and SnO<sub>2</sub> nanocrystals prepared under oxidizing and reducing conditions. We observe the band splitting in ZnO and SnO<sub>2</sub> nanocrystals induced by localized doublet (S = 1/2) and triplet (S = 1) ground states, respectively. Photoluminescence measurements suggest that these states are associated with oxygen vacancies, either as isolated paramagnetic sites in ZnO or as local vacancy-based complexes in SnO<sub>2</sub> nanocrystals. The results of this work demonstrate the ability to tune carrier polarization in metal oxide nanocrystals by in situ control of the native defect formation and attest to the anomalous Zeeman splitting of the band states, which may play an important role in generating ferromagnetism in this class of materials."
+
+
+  - title: Manipulating Carrier Polarization in Pure and Doped Metal Oxide Semiconductor Nanocrystals
+    authors: <strong>Chenwei Zhang</strong>
+    conference_short: THESIS
+    conference: MSc Thesis at the University of Waterloo <strong>(MSc Thesis)</strong>, 2021.
+    pdf: https://uwspace.uwaterloo.ca/bitstream/handle/10012/16816/Zhang_Chenwei.pdf?sequence=3&isAllowed=y
+    bibtex: ./assets/bib/mscthesis.txt
+    image: ./assets/img/mscthesis.png
+    abs: "Moore's Law will soon be inadequate to keep up with the needs of technological developments as the currently used materials have reached their natural performance limits. Hence, the development of a new technology to replace traditional semiconductor electronics is imminent. Spintronics has been emerged as a promising alternative to control charge properties as well as electron spin to improve the device performance. Metal oxide and chalcogenide semiconductor nanocrystals (NCs) have generated much research due to their unique properties and relatively low cost. In contrast to noble metal nanoparticles (NPs), the semiconductor NCs with tunable free charge carrier concentration are regarded as promising materials in technological applications including multifunctional quantum devices and next-generation electronic devices."
+
+
+  - title: Manipulating Carrier Polarization in Semiconductor Nanocrystals
+    authors: <strong>Chenwei Zhang</strong>, Penghui Yin, Pavle V. Radovanovic
+    conference_short: ECST
+    conference: ECS Transactions <strong>(ECST)</strong>, 2020.
+    pdf: https://iopscience.iop.org/article/10.1149/09803.0077ecst/meta
+    bibtex: ./assets/bib/ATO.txt
+    image: ./assets/img/ATO.png
+    abs: "We investigated the role of the synthesis method and post-synthesis processing on the plasmonic properties of antimony-doped SnO<sub>2</sub> nanocrystals. The nanocrystal samples having variable doping concentrations were prepared by coprecipitation and solvothermal methods, and subsequently thermally annealed for different durations. We found that solvothermally-synthesized Sb-doped SnO<sub>2</sub> nanocrystals exhibit strong localized surface plasmon resonance in the near-infrared region, which is distinctly absent in the nanocrystals synthesized by the coprecipitation method. Upon thermal annealing, the plasmon absorption emerges in the nanocrystals prepared by the coprecipitation method, and increases in intensity in solvothermally-synthesized nanocrystals. Using X-ray photoelectron spectroscopy, we correlated the plasmon intensity to the oxidation of Sb<sup>3+</sup> to Sb<sup>5+</sup>. These results demonstrate that synthesis methodology and post-synthesis treatment can dramatically influence the plasmonic properties of aliovalently doped semiconductor nanocrystals via dopant oxidation state, and can be effectively used to design semiconductor nanocrystals with targeted plasmonic properties."
+
+
