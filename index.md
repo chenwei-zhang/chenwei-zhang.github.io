@@ -41,3 +41,6 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/experience.md %}
+
+{% include_relative _includes/activity.md %}
+
