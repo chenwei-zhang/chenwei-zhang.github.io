@@ -3,8 +3,6 @@ layout: homepage
 ---
 
 ## About Me
-Stay tuned: building the new page...
-(My old webpage: https://www.cwzhang.me)
 
 I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the co-supervision of Prof. [Anne Condon](https://www.cs.ubc.ca/~condon/) and Prof. [Khanh Dao Duc](https://kdaoduc.com/). I am also affiliated with the [Algorithm Lab (Beta Lab)](https://www.cs.ubc.ca/labs/beta/). Since June 2023, I have been undertaking my internship at [Amgen Canada](https://www.amgen.ca/). I obtained my MSc degree under the supervision of Prof. [Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021. I earned a dual Bachelor's degree from the University of Waterloo (Dean’s Honours List) and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
 
