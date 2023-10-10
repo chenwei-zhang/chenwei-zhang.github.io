@@ -10,11 +10,9 @@
   <li><strong>[Aug. 2022]</strong> <a href="../assets/files/move-update_DNA28_poster.pdf"><autocolor><i>Poster presentation as coauthor</i></autocolor> <a href="https://dna28.cs.unm.edu/"><autocolor>at 28th International Conference on DNA Computing and Molecular Programming (DNA28), University of New Mexico, Albuquerque, USA.</autocolor></a></li>
 </ul>
 
-
 <h4 style="margin:0 10px 0;">Photography</h4>
 
 <ul style="margin:0 0 5px;">
-  I am an amateur photographer and I like sharing beatutiful pictures taken from different places and countries. Please enjoy my
-  <a href="https://imgur.com/user/ChenweiZhang/posts"><autocolor><strong><i>Photograph Portfolio</i></strong></autocolor>.
+  I am an amateur photographer who likes sharing beautiful pictures from different places and countries. Please enjoy my
+  <a href="https://imgur.com/user/ChenweiZhang/posts"><autocolor><strong><i>Photograph Portfolio</i></strong></autocolor></a>.
 </ul>
-
