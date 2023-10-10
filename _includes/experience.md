@@ -1,13 +1,13 @@
 <h2 id="experience" style="margin: 2px 0px 10px;">Work Experience</h2>
 
 
-<h4 style="margin:0 10px 0;">Industry</h4>
+<h4 style="margin:0 10px 0;">Industry Internship</h4>
 
 <ul style="margin:0 0 5px;">
   <li><strong>[Jun. 2023 - Present]</strong> <a href="https://www.amgen.ca/"><autocolor>Research intern at Amgen Canada, focused on leveraging artificial intelligence for drug discovery.</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Academia</h4>
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.cs.ubc.ca/~schmidtm/Courses/340-F22/"><autocolor><strong>CPSC 340/532M</strong>: Machine Learning and Data Mining</autocolor></a></li>
