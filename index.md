@@ -4,8 +4,9 @@ layout: homepage
 
 ## About Me
 
-Think big. Think different. I am Chenwei Zhang (张晨伟 in Chinese).
-I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the co-supervision of Prof. [Anne Condon](https://www.cs.ubc.ca/~condon/) and Prof. [Khanh Dao Duc](https://kdaoduc.com/). I am also affiliated with the [Algorithm Lab (Beta Lab)](https://www.cs.ubc.ca/labs/beta/). Since June 2023, I have been undertaking my internship at [Amgen Canada](https://www.amgen.ca/). I obtained my MSc degree under the supervision of Prof. [Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021. I earned a dual Bachelor's degree from the University of Waterloo (Dean’s Honours List) and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
+Think big. Think different. 
+
+I am Chenwei Zhang (张晨伟 in Chinese). I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.ca) at the [University of British Columbia](https://www.ubc.ca) under the co-supervision of Prof. [Anne Condon](https://www.cs.ubc.ca/~condon/) and Prof. [Khanh Dao Duc](https://kdaoduc.com/). I am also affiliated with the [Algorithm Lab (Beta Lab)](https://www.cs.ubc.ca/labs/beta/). Since June 2023, I have been undertaking my internship at [Amgen Canada](https://www.amgen.ca/). I obtained my MSc degree under the supervision of Prof. [Pavle Radovanovic](http://pavlegroup.uwaterloo.ca/) from the [University of Waterloo](https://uwaterloo.ca) in 2021. I earned a dual Bachelor's degree from the University of Waterloo (Dean’s Honours List) and [Beijing Jiaotong University (China)](http://en.njtu.edu.cn) in 2018.
 
 ## Research Interests
 
@@ -22,7 +23,7 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.cs.ubc.
 <details style="margin-bottom: 20px;">
   <summary>Previous news</summary>
   <ul>
-    <li><strong>[Jul. 2023]</strong> 🎉 Our abstract poster on visualizing DNA kinetics using deep graph embeddings is accepted to DNA29.</li>
+    <li><strong>[Jul. 2023]</strong> 🎉 Our <a href="./assets/files/vida_DNA29_poster.pdf">abstract poster</a> on visualizing DNA kinetics using deep graph embeddings is accepted to DNA29.</li>
     <li><strong>[Jun. 2023]</strong> 👨‍💻 I am starting my internship at <a href="https://www.amgen.ca/">Amgen</a> focused on employing deep learning in drug discovery.</li>
     <li><strong>[Jan. 2023]</strong> 🎉 Our <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c06569">paper</a> on revisiting plasmonic properties of complex semiconductor nanocrystals using Magnetic Circular Dichroism Spectroscopy is accepted to The Journal of Physical Chemistry C.</li>
     <li><strong>[Dec. 2022]</strong> 🗣️ I presented a <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/59044.png?t=1669169245.3355224">poster</a> at NeurIPS2022 conference in New Orleans, US.</li>
