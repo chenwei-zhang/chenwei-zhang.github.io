@@ -16,7 +16,7 @@ I am Chenwei Zhang (张晨伟 in Chinese). I am a Ph.D. student in the [Departme
 
 ## News
 
-- **[📌News📌]** I made a [paper list](https://github.com/chenwei-zhang/Papers-atomic-model-building-in-CryoEM-maps) collecting different SOTA approaches for protein atomic model building.
+- **[📌News📌]** I made a [paper list](https://github.com/chenwei-zhang/Papers-atomic-model-building-in-CryoEM-maps) that collects different SOTA ML, DL or other advanced computational approaches for protein atomic model building.
 - **[Sept. 2023]** 🗣️ I presented a [poster](./assets/files/vida_DNA29_poster.pdf) at [DNA29](https://dna29.org/index.html) conference in Sendai, Japan.
 - **[Sept. 2023]** 🗣️ I gave a [talk](https://www.birs.ca/events/2023/5-day-workshops/23w5142/videos/watch/202309071601-Zhang.html) at [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5142) workshop in Banff, Canada.
 - **[Jul. 2023]** 🎉 Our [paper](https://drops.dagstuhl.de/opus/volltexte/2023/18788/) on revisiting hybridization kinetics with Bayesian inference is accepted to DNA29.
