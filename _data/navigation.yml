@@ -4,12 +4,9 @@ main:
     url: ./#contact 
     right: true 
 
-  - title: "Experience"
-    url: ./#experience
-
-  - title: "Activities"
-    url: ./#activity
-
   - title: "Publications"
     url: ./#publications
+
+  - title: "Bio"
+    url: ./#about-me
 
