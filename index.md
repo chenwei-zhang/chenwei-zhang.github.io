@@ -17,13 +17,16 @@ I am Chenwei Zhang (张晨伟 in Chinese). I am a Ph.D. student in the [Departme
 ## News
 
 - **[📌News📌]** I made a [paper list](https://github.com/chenwei-zhang/Papers-atomic-model-building-in-CryoEM-maps) that collects different SOTA ML, DL or other advanced computational approaches for protein atomic model building.
+- **[Nov. 2023]** 🗣️ I will give an oral presentation at [Machine Learning in Computational Biology](https://sites.google.com/cs.washington.edu/mlcb2023/) (MLSB 2023) conference in Seattle, US. 
+- **[Nov. 2023]** 🎉 Our [paper](https://arxiv.org/abs/2311.03411) on visualizing hybridization trajectories with biophysics-informed deep graph embeddings is accepted to MLCB 2023, PMLR, selected as an oral presentation.
+- **[Oct. 2023]** 🎉 Our [paper](https://arxiv.org/abs/2311.00850) on partial alignment of density maps and rigid body fitting using unbalanced Gromov-Wasserstein divergence is accepted to MLSB, NeurIPS2022.
 - **[Sept. 2023]** 🗣️ I presented a [poster](./assets/files/vida_DNA29_poster.pdf) at [DNA29](https://dna29.org/index.html) conference in Sendai, Japan.
-- **[Sept. 2023]** 🗣️ I gave a [talk](https://www.birs.ca/events/2023/5-day-workshops/23w5142/videos/watch/202309071601-Zhang.html) at [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5142) workshop in Banff, Canada.
-- **[Jul. 2023]** 🎉 Our [paper](https://drops.dagstuhl.de/opus/volltexte/2023/18788/) on revisiting hybridization kinetics with Bayesian inference is accepted to DNA29.
 <div style="margin-top: -20px;">
 <details style="margin-bottom: 20px;">
   <summary>Previous news</summary>
   <ul>
+    <li><strong>[Sept. 2023]</strong> 🎉 I gave a <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5142/videos/watch/202309071601-Zhang.html">talk</a> at <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5142">BIRS</a> workshop in Banff, Canada.</li>
+    <li><strong>[Jul. 2023]</strong> 🎉 Our <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18788/">paper</a> on revisiting hybridization kinetics with Bayesian inference is accepted to DNA29.</li>
     <li><strong>[Jul. 2023]</strong> 🎉 Our <a href="./assets/files/vida_DNA29_poster.pdf">abstract poster</a> on visualizing DNA kinetics using deep graph embeddings is accepted to DNA29.</li>
     <li><strong>[Jun. 2023]</strong> 👨‍💻 I am starting my internship at <a href="https://www.amgen.ca/">Amgen</a> focused on employing deep learning in drug discovery.</li>
     <li><strong>[Jan. 2023]</strong> 🎉 Our <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c06569">paper</a> on revisiting plasmonic properties of complex semiconductor nanocrystals using Magnetic Circular Dichroism Spectroscopy is accepted to The Journal of Physical Chemistry C.</li>
