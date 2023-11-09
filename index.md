@@ -22,7 +22,7 @@ I am Chenwei Zhang (张晨伟 in Chinese). I am a Ph.D. student in the [Departme
 - **[Oct. 2023]** 🎉 Our [paper](https://arxiv.org/abs/2311.00850) on partial alignment of density maps and rigid body fitting using unbalanced Gromov-Wasserstein divergence is accepted to MLSB, NeurIPS2022.
 - **[Sept. 2023]** 🗣️ I presented a [poster](./assets/files/vida_DNA29_poster.pdf) at [DNA29](https://dna29.org/index.html) conference in Sendai, Japan.
 <div style="margin-top: -20px;">
-<details style="margin-bottom: 20px;">
+<details style="margin-bottom: 30px;">
   <summary>Previous news</summary>
   <ul>
     <li><strong>[Sept. 2023]</strong> 🎉 I gave a <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5142/videos/watch/202309071601-Zhang.html">talk</a> at <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5142">BIRS</a> workshop in Banff, Canada.</li>
