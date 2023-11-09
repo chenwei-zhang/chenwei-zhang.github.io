@@ -16,10 +16,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
+
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
     <meta name="twitter:description" content="{{ site.description }}">
     <meta name="twitter:image" content="{{ site.avatar }}">
+
     {% if site.keywords %}
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
@@ -50,6 +52,26 @@
 
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
 
+    <script type="text/javascript">
+      function toggle_vis(id) {
+          var e = document.getElementById(id);
+          if (e.style.display == 'none')
+              e.style.display = 'inline';
+          else
+              e.style.display = 'none';
+      }
+   </script>
+
+   <script>
+      function myFunction() {
+      var x = document.getElementById("myLinks");
+      if (x.style.display === "block") {
+        x.style.display = "none";
+      } else {
+        x.style.display = "block";
+      }
+      }
+   </script>
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
