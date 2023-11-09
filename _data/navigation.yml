@@ -1,11 +1,12 @@
 main:
 
-  - title: "Bio"
-    url: ./#about-me
+  - title: "Contact"
+    url: ./#contact 
+    right: true 
 
   - title: "Publications"
     url: ./#publications
 
-  - title: "Contact"
-    url: ./#contact 
-    right: true 
+  - title: "Bio"
+    url: ./#about-me
+

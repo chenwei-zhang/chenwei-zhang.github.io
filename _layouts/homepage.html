@@ -16,6 +16,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{{ site.avatar }}">
     {% if site.keywords %}
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
@@ -44,6 +48,9 @@
     <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
     {% endif %}
 
+    <script type="text/javascript" src="./assets/js/jquery.js"></script>
+
+
     <script>
       document.addEventListener('DOMContentLoaded', function() {
         const lastUpdatedElement = document.getElementById('last-updated');
@@ -60,19 +67,14 @@
 
     <div class="topnav">
 
-      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
-
       <div id="myLinks">
       {% include navigation.md %}
       </div>
-
       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
         <i class="fa fa-bars"></i>
       </a>
-      
     </div>
     
-
     <script src="./assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
         backgroundColor: '#fff',
