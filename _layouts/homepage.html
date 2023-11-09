@@ -17,11 +17,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
 
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ site.title }} | {{ site.affiliation }}">
-    <meta name="twitter:description" content="{{ site.description }}">
-    <meta name="twitter:image" content="{{ site.avatar }}">
-
     {% if site.keywords %}
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
@@ -51,6 +46,7 @@
     {% endif %}
 
     <script type="text/javascript" src="./assets/js/jquery.js"></script>
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <script type="text/javascript">
       function toggle_vis(id) {
@@ -166,7 +162,7 @@
 
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
+          <i class="fab fa-twitter"></i>
         </a>
         {% endif %}
         </div>

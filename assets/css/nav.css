@@ -5,8 +5,8 @@
 	  position:fixed;
 	  z-index:999;
     width:100%;
+    height: 20px;
   }
-
 
   .topnav #myLinks {
     display: inline;
@@ -16,10 +16,10 @@
     display: none;
   }
 
-  .topnav img {
-    margin-bottom:-16.5pt;
-    margin-top:-12.5pt;
-    margin-left:30%;
+.topnav img {
+  margin-bottom:-16.5pt;
+  margin-top:-12.5pt;
+  margin-left:30%;
   }
   
   /* Style the links inside the navigation bar */

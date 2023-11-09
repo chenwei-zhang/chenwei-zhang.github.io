@@ -52,3 +52,4 @@ I am Chenwei Zhang (张晨伟 in Chinese). I am a Ph.D. student in the [Departme
 
 {% include_relative _includes/activity.md %}
 
+{% include_relative _includes/contact.md %}
