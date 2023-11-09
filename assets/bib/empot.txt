@@ -1,0 +1,6 @@
+@article{riahi2023empot,
+  title={EMPOT: partial alignment of density maps and rigid body fitting using unbalanced Gromov-Wasserstein divergence},
+  author={Riahi, Aryan Tajmir and Zhang, Chenwei and Chen, James and Condon, Anne and Duc, Khanh Dao},
+  journal={arXiv preprint arXiv:2311.00850},
+  year={2023}
+}
