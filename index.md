@@ -11,7 +11,7 @@ I am Chenwei Zhang (张晨伟 in Chinese). I am a Ph.D. student in the [Departme
 ## Research Interests
 
 - **Machine Learning:** deep learning, graph embedding, multimodal learning, visualization
-- **AI4Science:** protein atomic model reconstruction, Cryo-EM density map analysis, DNA kinetics
+- **AI4Science:** Ab initio atomic model building, Cryo-EM density map, DNA kinetics
 
 
 {% include_relative _includes/news.md %}
