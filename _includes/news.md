@@ -2,6 +2,7 @@
 
 - **[📌Pinned📌]** I made a [paper list](https://github.com/chenwei-zhang/Papers-atomic-model-building-in-CryoEM-maps) that collects different SOTA ML, DL or other advanced computational approaches for protein atomic model building.
 - **[📌Pinned📌]** I made a [python package](https://anaconda.org/ChenweiZhang/fast_dijkstra) to find a specified number of shortest paths (top K) in a weighted graph by Dijkstra's algorithm.
+- **[Dec. 2023]** 🗣️ I will give a poster presentation at [Machine Learning in Structural Biology (MLSB)](https://www.mlsb.io/) workshop at [Neurips 2023](https://nips.cc/) conference in New Orleans, US.
 - **[Nov. 2023]** 🗣️ I will give an oral presentation at [Machine Learning in Computational Biology](https://sites.google.com/cs.washington.edu/mlcb2023/) (MLSB 2023) conference in Seattle, US. 
 - **[Nov. 2023]** 🎉 Our [paper](https://arxiv.org/abs/2311.03411) on visualizing hybridization trajectories with biophysics-informed deep graph embeddings is accepted to MLCB 2023, PMLR, selected as an oral presentation.
 - **[Oct. 2023]** 🎉 Our [paper](https://arxiv.org/abs/2311.00850) on partial alignment of density maps and rigid body fitting using unbalanced Gromov-Wasserstein divergence is accepted to MLSB, NeurIPS2022.
