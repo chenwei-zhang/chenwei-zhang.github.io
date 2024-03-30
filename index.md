@@ -22,5 +22,7 @@ I am Chenwei Zhang (<span style="font-family: 'Font Name', Kai; font-size: 100%;
 
 {% include_relative _includes/activity.md %}
 
+{% include_relative _includes/services.md %}
+
 {% include_relative _includes/contact.md %}
 
