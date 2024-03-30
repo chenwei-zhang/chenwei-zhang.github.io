@@ -19,7 +19,7 @@
 
 <h4 style="margin:0 10px 0;">Photography</h4>
 
-<ul style="margin:0 0 5px;">
+<ul style="margin:0 0 20px;">
   I am an amateur photographer and I like sharing beautiful pictures from different places and countries. Please enjoy my
   <a href="https://imgur.com/user/ChenweiZhang/posts"><autocolor><strong><i>Photograph Portfolio</i></strong></autocolor></a>.
 </ul>
