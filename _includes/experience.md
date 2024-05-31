@@ -4,7 +4,7 @@
 <h4 style="margin:0 10px 0;">Industry Internship</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><strong>[Jun. 2023 - Present]</strong> <a href="https://www.amgen.ca/"><autocolor>Research intern at Amgen Canada, focused on leveraging artificial intelligence for drug discovery.</autocolor></a></li>
+  <li><strong>[Jun. 2023 - Jun. 2024]</strong> <a href="https://www.amgen.ca/"><autocolor>Research machine learning intern at Amgen Canada, focused on leveraging artificial intelligence for drug discovery.</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>

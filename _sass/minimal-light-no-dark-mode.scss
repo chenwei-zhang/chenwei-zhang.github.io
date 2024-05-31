@@ -516,3 +516,14 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+
+// Importing Ma Shan Zheng from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+
+// Define the font usage for specific classes or elements
+.ma-shan-zheng-regular {
+  font-family: 'Ma Shan Zheng', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
