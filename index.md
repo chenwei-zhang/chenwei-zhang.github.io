@@ -10,7 +10,7 @@ I am Chenwei Zhang (<span class="ma-shan-zheng-regular">张晨伟</span> in Chin
 
 ## Research Interests
 
-- **Machine Learning:** Generative models (diffusion models, GANs, VAEs, etc.), Large Language Models, AI Agent, Multimodal AI, visualization
+- **Machine Learning:** Generative models (diffusion models, GANs, VAEs, etc.), Large Language Models, AI Agent, Multimodal AI, Visualization
 - **AI4Science:** Protein structure modelling, AI4Healthcare, Drug discovery, DNA kinetics
 
 
