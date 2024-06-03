@@ -10,8 +10,8 @@ I am Chenwei Zhang (<span class="ma-shan-zheng-regular">张晨伟</span> in Chin
 
 ## Research Interests
 
-- **Machine Learning:** deep learning, graph embedding, multimodal learning, visualization
-- **AI4Science:** Ab initio atomic model building, Cryo-EM density map, DNA kinetics
+- **Machine Learning:** Generative models (diffusion models, GANs, VAEs, etc.), Large Language Models, AI Agent, Multimodal AI, visualization
+- **AI4Science:** Protein structure modelling, AI4Healthcare, Drug discovery, DNA kinetics
 
 
 {% include_relative _includes/news.md %}

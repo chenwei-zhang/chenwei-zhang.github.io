@@ -6,6 +6,4 @@
 <br />
 <strong>Office Location:</strong> ICICS/CS Building X560
 <br />
-<strong>Email:</strong> <email>cwzhang (at) cs.ubc.ca</email>
-<br />
-<strong>Phone:</strong> (226) 939-2222</p>
+<strong>Email:</strong> <email>cwzhang (at) cs.ubc.ca</email></p>
