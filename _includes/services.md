@@ -9,7 +9,7 @@
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Public Service</h4>
+<h4 style="margin:0 10px 0;">Public Services</h4>
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.linkedin.com/posts/mitacs_bc-telecommunications-newtech-activity-7179493127106310145-4rze?utm_source=share&utm_medium=member_desktop"><autocolor>Mitacs Roundtable with BC Minister of Post-Secondary Education and Future Skills</autocolor></a></li>
 </ul>

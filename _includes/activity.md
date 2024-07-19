@@ -4,6 +4,9 @@
 <h4 style="margin:0 10px 0;">Conference & Workshop</h4>
 
 <ul style="margin:0 0 5px;">
+
+  <li><strong>[Jul. 2024]</strong> <a href="https://www.oxfordml.school"><autocolor><i>Oxford Machine Learning Summer School (OxML) 2024</i></autocolor></a> <a href="https://www.ox.ac.uk/"><autocolor>at University of Oxford, Oxford, UK.</autocolor></a></li>
+
   <li><strong>[Dec. 2023]</strong> <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/77457.png?t=1702583742.4005952"><autocolor><i>Poster presentation</i></autocolor></a> <a href="https://www.mlsb.io/"><autocolor>at Machine Learning in Structural Biology at NeurIPS 2023, New Orleans, USA.</autocolor></a></li>
 
   <li><strong>[Dec. 2023]</strong> <a href="https://www.youtube.com/watch?v=3yYUaiL8THk"><autocolor><i>15-minute oral presentation</i></autocolor></a> <a href="../assets/files/MLCB-oral-ViDa-Chenwei.pdf"><autocolor>(slide)</autocolor></a> <a href="https://sites.google.com/cs.washington.edu/mlcb2023/"><autocolor>at Machine Learning in Computational Biology Conference (MLCB2023), University of Washington, Seattle, USA.</autocolor></a></li>
