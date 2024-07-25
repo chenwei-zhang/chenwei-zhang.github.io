@@ -28,7 +28,7 @@ main:
     authors: <strong>Chenwei Zhang</strong>, Jordan Lovrod, Boyan Beronov, Khanh Dao Duc, Anne Condon
     conference_short: PMLR
     conference: Machine Learning in Computational Biology. <strong>PMLR </strong>, 2023. 
-    pdf: https://arxiv.org/abs/2311.03411
+    pdf: https://proceedings.mlr.press/v240/zhang24a.html
     code: https://github.com/chenwei-zhang/ViDa
     bibtex: ./assets/bib/vida_pmlr.txt
     image: ./assets/img/vida_pmlr.png
@@ -40,7 +40,7 @@ main:
     authors: Aryan Tajmir Riahi, <strong>Chenwei Zhang</strong>, James Chen, Anne Condon, Khanh Dao Duc
     conference_short: NeurIPS
     conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2311.00850.pdf
+    pdf: https://arxiv.org/abs/2311.00850
     code: https://github.com/artajmir3/EMPOT
     bibtex: ./assets/bib/empot.txt
     image: ./assets/img/empot.png
@@ -52,7 +52,7 @@ main:
     authors: Jordan Lovrod, Boyan Beronov, <strong>Chenwei Zhang</strong>, Erik Winfree, Anne Condon
     conference_short: DNA29
     conference: 29th International Conference on DNA Computing and Molecular Programming <strong>(DNA29)</strong>, 2023.
-    pdf: https://drops.dagstuhl.de/opus/volltexte/2023/18788/pdf/LIPIcs-DNA-29-5.pdf
+    pdf: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DNA.29.5
     code: https://github.com/DNA-and-Natural-Algorithms-Group/multistrand
     bibtex: ./assets/bib/revisit_DNA29.txt
     image: ./assets/img/revisit_DNA29.png
@@ -74,7 +74,7 @@ main:
     authors: <strong>Chenwei Zhang</strong>, Khanh Dao Duc, Anne Condon
     conference_short: NeurIPS
     conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2022.
-    pdf: https://www.mlsb.io/papers_2022/Visualizing_DNA_reaction_trajectories_with_deep_graph_embedding_approaches.pdf
+    pdf: https://arxiv.org/abs/2311.03409
     code: https://github.com/chenwei-zhang/ViDa
     bibtex: ./assets/bib/vida_mlsb2022.txt
     image: ./assets/img/vida_mlsb2022.png
@@ -97,7 +97,7 @@ main:
     authors: <strong>Chenwei Zhang</strong>
     conference_short: THESIS
     conference: MSc Thesis at the University of Waterloo <strong>(MSc Thesis)</strong>, 2021.
-    pdf: https://uwspace.uwaterloo.ca/bitstream/handle/10012/16816/Zhang_Chenwei.pdf?sequence=3&isAllowed=y
+    pdf: https://uwspace.uwaterloo.ca/handle/10012/16816
     bibtex: ./assets/bib/mscthesis.txt
     image: ./assets/img/mscthesis.png
     abs: "Moore's Law will soon be inadequate to keep up with the needs of technological developments as the currently used materials have reached their natural performance limits. Hence, the development of a new technology to replace traditional semiconductor electronics is imminent. Spintronics has been emerged as a promising alternative to control charge properties as well as electron spin to improve the device performance. Metal oxide and chalcogenide semiconductor nanocrystals (NCs) have generated much research due to their unique properties and relatively low cost. In contrast to noble metal nanoparticles (NPs), the semiconductor NCs with tunable free charge carrier concentration are regarded as promising materials in technological applications including multifunctional quantum devices and next-generation electronic devices."
