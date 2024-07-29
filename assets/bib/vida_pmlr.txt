@@ -1,0 +1,15 @@
+@InProceedings{pmlr-v240-zhang24a,
+  title = 	 {ViDa: Visualizing DNA hybridization trajectories with biophysics-informed deep graph embeddings},
+  author =       {Zhang, Chenwei and Lovrod, Jordan and Beronov, Boyan and Dao Duc, Khanh and Condon, Anne},
+  booktitle = 	 {Proceedings of the 18th Machine Learning in Computational Biology meeting},
+  pages = 	 {148--162},
+  year = 	 {2024},
+  editor = 	 {Knowles, David A. and Mostafavi, Sara},
+  volume = 	 {240},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {30 Nov--01 Dec},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v240/zhang24a/zhang24a.pdf},
+  url = 	 {https://proceedings.mlr.press/v240/zhang24a.html},
+  abstract = 	 {Visualization tools can help synthetic biologists and molecular programmers understand the complex reactive pathways of nucleic acid reactions, which can be designed for many potential applications and can be modeled using a continuous-time Markov chain (CTMC). Here we present ViDa, a new visualization approach for DNA reaction trajectories that uses a 2D embedding of the secondary structure state space underlying the CTMC model. To this end, we integrate a scattering transform of the secondary structure adjacency, a variational autoencoder, and a nonlinear dimensionality reduction method. We augment the training loss with domain-specific supervised terms that capture both thermodynamic and kinetic features. We assess ViDa on two well-studied DNA hybridization reactions. Our results demonstrate that the domain-specific features lead to significant quality improvements over the state-of-the-art in DNA state space visualization, successfully separating different folding pathways and thus providing useful insights into dominant reaction mechanisms.}
+}

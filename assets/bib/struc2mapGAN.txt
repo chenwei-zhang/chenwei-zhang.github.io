@@ -1,0 +1,6 @@
+@article{zhang2024synthetic,
+  title={Synthetic High-resolution Cryo-EM Density Maps with Generative Adversarial Networks},
+  author={Zhang, Chenwei and Condon, Anne and Duc, Khanh Dao},
+  journal={arXiv preprint arXiv:2407.17674},
+  year={2024}
+}

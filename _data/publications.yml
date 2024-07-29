@@ -4,9 +4,9 @@ main:
     authors: <strong>Chenwei Zhang</strong>, Anne Condon, Khanh Dao Duc
     conference_short: Submitted
     conference: Submitted
-    # pdf: https://arxiv.org/abs/2311.03411
+    pdf: https://arxiv.org/abs/2407.17674
     code: https://github.com/chenwei-zhang/struc2mapGAN
-    # bibtex: ./assets/bib/vida_pmlr.txt
+    bibtex: ./assets/bib/struc2mapGAN.txt
     image: ./assets/img/struc2mapGAN.png
     # notes: Oral Presentation
     abs: "Generating synthetic cryogenic electron microscopy (cryo-EM) 3D density maps from molecular structures has potential important applications in structural biology. Yet existing simulation-based methods cannot mimic all the complex features present in experimental maps, such as secondary structure elements. As an alternative, we propose struc2mapGAN, a novel data-driven method that employs a generative adversarial network (GAN) to produce high-resolution experimental-like density maps from molecular structures. More specifically, struc2mapGAN uses a U-Net++ architecture as the generator, with an additional L1 loss term and further processing of raw experimental maps to enhance learning efficiency. While struc2mapGAN can promptly generate maps after training, we demonstrate that it outperforms existing simulation-based methods for a wide array of tested maps and across various evaluation metrics. Our anonymous code is available at https://github.com/chenwei-zhang/struc2mapGAN."
