@@ -5,6 +5,8 @@
 
 <ul style="margin:0 0 5px;">
 
+  <li><strong>[Sept. 2024]</strong> <a href="../assets/files/mismatch_DNA30_poster.pdf"><autocolor><i>Poster presentation</i></autocolor></a> <a href="https://www.dna30.org"><autocolor>at 39th International Conference on DNA Computing and Molecular Programming (DNA30), Johns Hopkins University, Baltimore, USA.</autocolor></a></li>
+
   <li><strong>[Jul. 2024]</strong> <a href="https://www.oxfordml.school"><autocolor><i>Oxford Machine Learning Summer School (OxML) 2024</i></autocolor></a> <a href="https://www.ox.ac.uk/"><autocolor>at University of Oxford, Oxford, UK.</autocolor></a></li>
 
   <li><strong>[Dec. 2023]</strong> <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/77457.png?t=1702583742.4005952"><autocolor><i>Poster presentation</i></autocolor></a> <a href="https://www.mlsb.io/"><autocolor>at Machine Learning in Structural Biology at NeurIPS 2023, New Orleans, USA.</autocolor></a></li>
