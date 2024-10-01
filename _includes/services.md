@@ -6,6 +6,7 @@
   <li><a href="https://neurips.cc/Conferences/2023"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2022</autocolor></a></li>
   <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML) 2024</autocolor></a></li> 
   <li><a href="https://sites.google.com/cs.washington.edu/mlcb2024/"><autocolor>Machine Learning in Computational Biology (MLCB) 2024</autocolor></a></li> 
+  <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
 </ul>
 
 
