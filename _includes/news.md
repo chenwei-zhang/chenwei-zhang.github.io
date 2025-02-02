@@ -2,6 +2,7 @@
 
 - **[📌Pinned📌]** I made a [paper list](https://github.com/chenwei-zhang/Papers-atomic-model-building-in-CryoEM-maps) that collects different SOTA ML, DL or other advanced computational approaches for protein atomic model building.
 - **[📌Pinned📌]** I made a [python package](https://anaconda.org/ChenweiZhang/fast_dijkstra) to find a specified number of shortest paths (top K) in a weighted graph by Dijkstra's algorithm.
+- **[Jan. 2025]** 👨‍💻 I am starting my machine learning internship at [Prenuvo](https://prenuvo.com/), focusing on builindg vision-language foundation model for healthcare. 
 - **[Sept. 2024]** 🗣️ I presented a [poster](../assets/files/mismatch_DNA30_poster.pdf) at [DNA30](https://www.dna30.org) conference at Johns Hopkins University, Baltimore, USA. 
 - **[Jul. 2024]** 🗣️ I will attend Oxford Machine Learning Summer School ([OxML 2024](https://www.oxfordml.school/)) at University of Oxford, Oxford, UK, from 6 - 14, July, 2024. 
 - **[Mar. 2024]** 🗣️ I represented the Amgen Interns to attend the [Mitacs Roundtable Discussion with new BC Minister of Post-Secondary Education and Future Skills, Lisa Beare.](https://twitter.com/MitacsCanada/status/1772987032375054508).
@@ -19,7 +20,7 @@
     <li><strong>[Sept. 2023]</strong> 🎉 I gave a <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5142/videos/watch/202309071601-Zhang.html">talk</a> at <a href="https://www.birs.ca/events/2023/5-day-workshops/23w5142">BIRS</a> workshop in Banff, Canada.</li>
     <li><strong>[Jul. 2023]</strong> 🎉 Our <a href="https://drops.dagstuhl.de/opus/volltexte/2023/18788/">paper</a> on revisiting hybridization kinetics with Bayesian inference is accepted to DNA29.</li>
     <li><strong>[Jul. 2023]</strong> 🎉 Our <a href="./assets/files/vida_DNA29_poster.pdf">abstract poster</a> on visualizing DNA kinetics using deep graph embeddings is accepted to DNA29.</li>
-    <li><strong>[Jun. 2023]</strong> 👨‍💻 I am starting my internship at <a href="https://www.amgen.ca/">Amgen</a> focused on employing deep learning in drug discovery.</li>
+    <li><strong>[Jun. 2023]</strong> 👨‍💻 I am starting my machine learning internship at <a href="https://www.amgen.ca/">Amgen</a> focused on employing deep learning in drug discovery.</li>
     <li><strong>[Jan. 2023]</strong> 🎉 Our <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c06569">paper</a> on revisiting plasmonic properties of complex semiconductor nanocrystals using Magnetic Circular Dichroism Spectroscopy is accepted to The Journal of Physical Chemistry C.</li>
     <li><strong>[Dec. 2022]</strong> 🗣️ I presented a <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202022/59044.png?t=1669169245.3355224">poster</a> at NeurIPS2022 conference in New Orleans, US.</li>
     <li><strong>[Oct. 2022]</strong> 🎉 Our <a href="https://www.mlsb.io/papers_2022/Visualizing_DNA_reaction_trajectories_with_deep_graph_embedding_approaches.pdf">workshop paper</a> on using semi-VAE for visualization of DNA reaction trajectories is accepted to MLSB, NeurIPS2022.</li>
