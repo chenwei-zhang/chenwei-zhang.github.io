@@ -1,27 +1,39 @@
 main:
 
-  - title: "Synthetic High-resolution Cryo-EM Density Maps with Generative Adversarial Networks"
+  - title: "CryoSAMU: Enhancing 3D Cryo-EM Density Maps of Protein Structures at Intermediate Resolution with Structure-Aware Multimodal U-Nets"
     authors: <strong>Chenwei Zhang</strong>, Anne Condon, Khanh Dao Duc
     conference_short: Submitted
-    conference: Submitted
+    conference: Submitted to ICCV 2025
+    pdf: https://arxiv.org/abs/2503.20291
+    code: https://github.com/chenwei-zhang/struc2mapGAN
+    bibtex: ./assets/bib/CryoSAMU.txt
+    image: ./assets/img/CryoSAMU.png
+    # notes: Oral Presentation
+    abs: "Enhancing cryogenic electron microscopy (cryo-EM) 3D density maps at intermediate resolution (4-8 {\AA}) is crucial in protein structure determination. Recent advances in deep learning have led to the development of automated approaches for enhancing experimental cryo-EM density maps. Yet, these methods are not optimized for intermediate-resolution maps and rely on map density features alone. To address this, we propose CryoSAMU, a novel method designed to enhance 3D cryo-EM density maps of protein structures using structure-aware multimodal U-Nets and trained on curated intermediate-resolution density maps. We comprehensively evaluate CryoSAMU across various metrics and demonstrate its competitive performance compared to state-of-the-art methods. Notably, CryoSAMU achieves significantly faster processing speed, showing promise for future practical applications. Our code is available at https://github.com/chenwei-zhang/CryoSAMU."
+
+
+  - title: "Struc2mapGAN: improving synthetic cryo-EM density maps with generative adversarial networks"
+    authors: <strong>Chenwei Zhang</strong>, Anne Condon, Khanh Dao Duc
+    conference_short: Submitted
+    conference: Submitted to Bioinformatics Advances
     pdf: https://arxiv.org/abs/2407.17674
     code: https://github.com/chenwei-zhang/struc2mapGAN
     bibtex: ./assets/bib/struc2mapGAN.txt
     image: ./assets/img/struc2mapGAN.png
     # notes: Oral Presentation
-    abs: "Generating synthetic cryogenic electron microscopy (cryo-EM) 3D density maps from molecular structures has potential important applications in structural biology. Yet existing simulation-based methods cannot mimic all the complex features present in experimental maps, such as secondary structure elements. As an alternative, we propose struc2mapGAN, a novel data-driven method that employs a generative adversarial network (GAN) to produce high-resolution experimental-like density maps from molecular structures. More specifically, struc2mapGAN uses a U-Net++ architecture as the generator, with an additional L1 loss term and further processing of raw experimental maps to enhance learning efficiency. While struc2mapGAN can promptly generate maps after training, we demonstrate that it outperforms existing simulation-based methods for a wide array of tested maps and across various evaluation metrics. Our anonymous code is available at https://github.com/chenwei-zhang/struc2mapGAN."
+    abs: "Generating synthetic cryogenic electron microscopy 3D density maps from molecular structures has potential important applications in structural biology. Yet existing simulation-based methods cannot mimic all the complex features present in experimental maps, such as secondary structure elements. As an alternative, we propose struc2mapGAN, a novel data-driven method that employs a generative adversarial network to produce improved experimental-like density maps from molecular structures. More specifically, struc2mapGAN uses a nested U-Net architecture as the generator, with an additional L1 loss term and further processing of raw training experimental maps to enhance learning efficiency. While struc2mapGAN can promptly generate maps after training, we demonstrate that it outperforms existing simulation-based methods for a wide array of tested maps and across various evaluation metrics."
 
 
   - title: "A comprehensive survey and benchmark of deep learning-based methods for atomic model building from cryo-EM density maps"
     authors: <strong>Chenwei Zhang</strong>, James Chen, Khanh Dao Duc, Anne Condon
     conference_short: Submitted
-    conference: Submitted
-    # pdf: https://arxiv.org/abs/2311.03411
-    code: https://github.com/chenwei-zhang/Papers-atomic-model-building-in-CryoEM-maps
-    # bibtex: ./assets/bib/vida_pmlr.txt
+    conference: Submitted to Briefings in Bioinformatics
+    pdf: https://www.biorxiv.org/content/10.1101/2025.03.02.641021
+    code: https://github.com/chenwei-zhang/cryoEVAL
+    bibtex: ./assets/bib/modelbuildingreview.txt
     image: ./assets/img/modelbuildingreview.png
     # notes: Oral Presentation
-    abs: "Recent advancements in deep learning (DL) have significantly enhanced the automated construction of atomic models from single-particle cryogenic electron microscopy (cryo-EM) density maps, addressing challenges posed by noise, varying resolutions, and complex biological structures. We conduct a comprehensive survey of DL-based approaches for building atomic models and evaluate cutting-edge methods against traditional physics-based approaches using 50 cryo-EM density maps at varying resolutions. In addition, we introduce improved evaluation metrics that overcome the limitations of existing metrics for model-building methods. Our findings demonstrate that DL-based methods outperform their traditional physics-based counterparts, especially when integrated with AlphaFold, which improves the completeness and accuracy of the constructed atomic models. Furthermore, we provide insightful future directions in this field and highlight the importance of collaboration between machine learning scientists and structural biologists."
+    abs: "Advancements in deep learning (DL) have recently led to new methods for automated construction of atomic models of proteins, from single-particle cryogenic electron microscopy (cryo-EM) density maps. We conduct a comprehensive survey of these methods, distinguishing between direct model building approaches that only use density maps, and indirect ones that integrate sequence-to-structure predictions from AlphaFold. To evaluate them with better precision, we refine standard existing metrics, and benchmark a subset of representative DL-methods against traditional physics-based approaches using 50 cryo-EM density maps at varying resolutions. Our findings demonstrate that overall, DL-based methods outperform traditional physics-based methods. Our benchmark also shows the benefit of integrating AlphaFold as it improved the completeness and accuracy of the model, although its dependency on available sequence information and limited training data may limit its usage."
 
 
   - title: "ViDa: Visualizing DNA hybridization trajectories with biophysics-informed deep graph embeddings"
@@ -39,7 +51,7 @@ main:
   - title: "EMPOT: partial alignment of density maps and rigid body fitting using unbalanced Gromov-Wasserstein divergence"
     authors: Aryan Tajmir Riahi, <strong>Chenwei Zhang</strong>, James Chen, Anne Condon, Khanh Dao Duc
     conference_short: NeurIPS
-    conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2023.
+    conference: Machine Learning for Structural Biology Workshop <strong>(MLSB)</strong>, NeurIPS 2023.
     pdf: https://arxiv.org/abs/2311.00850
     code: https://github.com/artajmir3/EMPOT
     bibtex: ./assets/bib/empot.txt
@@ -73,7 +85,7 @@ main:
   - title: Visualizing DNA Rection Trajectories with Deep Graph Embedding Approaches
     authors: <strong>Chenwei Zhang</strong>, Khanh Dao Duc, Anne Condon
     conference_short: NeurIPS
-    conference: Machine Learning for Structural Biology Workshop, NeurIPS <strong>(MLSB)</strong>, 2022.
+    conference: Machine Learning for Structural Biology Workshop <strong>(MLSB)</strong>, NeurIPS 2022.
     pdf: https://arxiv.org/abs/2311.03409
     code: https://github.com/chenwei-zhang/ViDa
     bibtex: ./assets/bib/vida_mlsb2022.txt

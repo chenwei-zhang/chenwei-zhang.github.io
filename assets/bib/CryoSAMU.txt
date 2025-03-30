@@ -1,0 +1,6 @@
+@article{zhang2025cryosamu,
+  title={CryoSAMU: Enhancing 3D Cryo-EM Density Maps of Protein Structures at Intermediate Resolution with Structure-Aware Multimodal U-Nets},
+  author={Zhang, Chenwei and Condon, Anne and Duc, Khanh Dao},
+  journal={arXiv preprint arXiv:2503.20291},
+  year={2025}
+}

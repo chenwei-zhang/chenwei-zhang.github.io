@@ -2,7 +2,7 @@
 
 - **[📌Pinned📌]** I made a [paper list](https://github.com/chenwei-zhang/Papers-atomic-model-building-in-CryoEM-maps) that collects different SOTA ML, DL or other advanced computational approaches for protein atomic model building.
 - **[📌Pinned📌]** I made a [python package](https://anaconda.org/ChenweiZhang/fast_dijkstra) to find a specified number of shortest paths (top K) in a weighted graph by Dijkstra's algorithm.
-- **[Jan. 2025]** 👨‍💻 I am starting my machine learning internship at [Prenuvo](https://prenuvo.com/), focusing on builindg vision-language foundation model for healthcare. 
+- **[Jan. 2025]** 👨‍💻 I am starting my machine learning internship at [Prenuvo](https://prenuvo.com/), focusing on builindg multimodal vision-language foundation models for medical imaging. 
 - **[Sept. 2024]** 🗣️ I presented a [poster](../assets/files/mismatch_DNA30_poster.pdf) at [DNA30](https://www.dna30.org) conference at Johns Hopkins University, Baltimore, USA. 
 - **[Jul. 2024]** 🗣️ I will attend Oxford Machine Learning Summer School ([OxML 2024](https://www.oxfordml.school/)) at University of Oxford, Oxford, UK, from 6 - 14, July, 2024. 
 - **[Mar. 2024]** 🗣️ I represented the Amgen Interns to attend the [Mitacs Roundtable Discussion with new BC Minister of Post-Secondary Education and Future Skills, Lisa Beare.](https://twitter.com/MitacsCanada/status/1772987032375054508).

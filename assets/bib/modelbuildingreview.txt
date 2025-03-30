@@ -1,0 +1,8 @@
+@article{zhang2025comprehensive,
+  title={A comprehensive survey and benchmark of deep learning-based methods for atomic model building from cryo-EM density maps},
+  author={Zhang, Chenwei and Condon, Anne and Duc, Khanh Dao},
+  journal={bioRxiv},
+  pages={2025--03},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
