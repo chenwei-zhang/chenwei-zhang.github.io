@@ -5,7 +5,7 @@ main:
     conference_short: Submitted
     conference: Submitted to ICCV 2025
     pdf: https://arxiv.org/abs/2503.20291
-    code: https://github.com/chenwei-zhang/struc2mapGAN
+    code: https://github.com/chenwei-zhang/CryoSAMU
     bibtex: ./assets/bib/CryoSAMU.txt
     image: ./assets/img/CryoSAMU.png
     # notes: Oral Presentation
